@@ -1,0 +1,17 @@
+{
+ "formato": 1,
+ "packs": [
+  {
+   "serial": "SLUS-21842",
+   "jogos": [
+    "dragon-ball-z-infinite-world",
+    "dragonball-z-infinite-world"
+   ],
+   "nome": "Texturas em HD",
+   "sha256": "2d4b6a79e69b250a534c0189b10df1275834ba864b09e28dec6e609ea5f3f2b1",
+   "tamanho": 1103900371,
+   "arquivos": 1408,
+   "url": "https://github.com/filipeamorim-code/plataforma-de-jogos-texturas/releases/download/SLUS-21842-2d4b6a79e6/SLUS-21842.zip"
+  }
+ ]
+}
