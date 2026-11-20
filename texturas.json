@@ -11,7 +11,19 @@
    "sha256": "2d4b6a79e69b250a534c0189b10df1275834ba864b09e28dec6e609ea5f3f2b1",
    "tamanho": 1103900371,
    "arquivos": 1408,
-   "url": "https://github.com/filipeamorim-code/plataforma-de-jogos-texturas/releases/download/SLUS-21842-2d4b6a79e6/SLUS-21842.zip"
+   "aviso": "",
+   "url": "https://github.com/filipeamorim-code/plataforma-de-jogos-texturas/releases/download/SLUS-21842-2d4b6a79e6/SLUS-21842.zip",
+   "ajustes": {
+    "arquivo": "SLUS-21842_E90DC5C9.ini",
+    "gs": {
+     "CASMode": "1",
+     "CASSharpness": "40",
+     "FMVAspectRatioSwitch": "Auto 4:3/3:2",
+     "MaxAnisotropy": "16",
+     "filter": "2",
+     "upscale_multiplier": "4"
+    }
+   }
   }
  ]
 }
